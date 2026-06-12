@@ -1,4 +1,5 @@
 # ClientesCRM — Django + SQLite
+# Deploy configurado
 
 Sistema de Cadastro de Clientes com Django, rodando localmente com SQLite.
 
